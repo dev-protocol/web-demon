@@ -1,21 +1,4 @@
-<p align="center">
-  <a href="https://github.com/web3-king"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Web%20developer;Highly%20Focus%20Leading%20Web%20and%20SEO%20Expert;9+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
-</p>
-<p align="center">
-  <img align="center" src="./pics/web7.png" style = "width: -webkit-fill-available;"/>
-</p>
-<h1 align="center">
-</h1>
-<p style="font-size: 20px;">
-A Senior full-stack web developer with over 9 years of experience in web design, development and maintenance with a focus on SEO, code optimization and code quality. <br><br>
-                Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
-                <br><br>
-                I provide <b>Front-End</b>, <b>Back-End</b> and also user-friendly web solutions.<br>
-                I would like to inform you that I am highly skilled with frontend & backend frameworks and libraries like <b><i class="bi bi-react"></i>React.js</b>, <b>Node.js</b>, <b>Django</b> and so on, as I have handsome experience of it. Still, I am always eager to learn a new thing and make my skills sharper whenever I get a chance.
-                Spending most of time in the <b>Javascript</b> / <b>Typescript</b> community.<br><br>
-                 I have demonstrated my mastery in building cutting-edge mobile applications for iOS and Android platforms, utilizing frameworks like React Native and Flutter. My proficiency in artificial intelligence shines through her successful implementation of machine learning algorithms, NLP models, and computer vision systems. My strong leadership skills and dedication to staying at the forefront of technology make me an invaluable asset in delivering innovative and impactful solutions.
-</p>
-  
+
 ## Languages & libraries
 
 <table>
